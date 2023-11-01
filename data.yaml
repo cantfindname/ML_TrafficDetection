@@ -1,0 +1,13 @@
+train: C:/Users/The Nameless One/Documents/Projects/ML_TrafficDetection/train/images
+val: C:/Users/The Nameless One/Documents/Projects/ML_TrafficDetection/train/images
+test: C:/Users/The Nameless One/Documents/Projects/ML_TrafficDetection/train/images
+
+nc: 5
+names: ['bicycle', 'bus', 'car', 'motorbike', 'person']
+
+roboflow:
+  workspace: fsmvu
+  project: street-view-gdogo
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/fsmvu/street-view-gdogo/dataset/1

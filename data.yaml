@@ -1,6 +1,6 @@
 train: C:/Users/The Nameless One/Documents/Projects/ML_TrafficDetection/train/images
-val: C:/Users/The Nameless One/Documents/Projects/ML_TrafficDetection/train/images
-test: C:/Users/The Nameless One/Documents/Projects/ML_TrafficDetection/train/images
+val: C:/Users/The Nameless One/Documents/Projects/ML_TrafficDetection/valid/images
+test: C:/Users/The Nameless One/Documents/Projects/ML_TrafficDetection/test/images
 
 nc: 5
 names: ['bicycle', 'bus', 'car', 'motorbike', 'person']
